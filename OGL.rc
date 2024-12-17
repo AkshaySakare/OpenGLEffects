@@ -1,0 +1,7 @@
+#include <windows.h>
+
+#include "OGL.h"
+// .rc resource script 
+MYICON ICON MyIcon64.ico
+MY_STONE_BITMAP BITMAP Stone.bmp
+MY_KUNDALI_BITMAP BITMAP Kundali.bmp
